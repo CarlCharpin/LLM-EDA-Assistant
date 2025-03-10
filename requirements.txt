@@ -1,0 +1,9 @@
+llama-cpp-python
+langchain-community
+llama-index
+huggingface-hub
+pandas
+matplotlib
+numpy
+psycopg2
+python-dotenv
